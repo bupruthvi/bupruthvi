@@ -14,6 +14,7 @@
 - 📫 How to reach me **pruthvirajbu+github@gmail.com**
 
 - ⚡ Fun fact **I love building new products that can make others life easier. One step at a time.**
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthvibasgod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/upruthvi) 
