@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Raj</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upruthvi&label=Profile%20views&color=0e75b6&style=flat" alt="upruthvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bupruthvi&label=Profile%20views&color=0e75b6&style=flat" alt="upruthvi" /> </p>
 
 - 🔭 I’m currently working on **Basgod**
 
